@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjinates&label=Profile%20views&color=0e75b6&style=flat" alt="arjinates" /> </p>
 
+- 🔭 Actively looking for an internship and part-time job.
+
 - 🌱 I’m currently learning **.Net Core, Clean Architecture, CI/CD method**
 
 - 💬 Ask me about **anything!**
 
-- 📫 How to reach me **arjinates@hotmail.com**
+- 📫 Reach me! **arjinates@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
