@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjinates&label=Profile%20views&color=0e75b6&style=flat" alt="arjinates" /> </p>
 
-- 🔭 Actively looking for an internship in AI or full-time job in Back-end.
+- 🔭 Actively working as a Software Developer at @Hepsiburada.
 
 - 🌱 I’m currently learning **.Net Core, Clean Architecture, Microservices Architecture CI/CD method**
 
